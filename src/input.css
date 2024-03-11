@@ -21,14 +21,14 @@ body {
     clip-path: polygon(0 0, 100% 0%, 100% 83%, 0% 98%);
   }
 
-  .card-gradient {
+  /* .card-gradient {
     background-image: linear-gradient(
       to right bottom,
-      rgb(125, 213, 111),
-      rgb(40, 180, 135)
+      rgba(125, 213, 111, 0.7),
+      rgba(40, 180, 135, 0.7)
     );
     opacity: 0.7;
-  }
+  } */
 
   .button-gradient {
     background-image: linear-gradient(
